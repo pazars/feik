@@ -10,3 +10,4 @@ Jebkādu atklājumi un secinājumi netiks izmantoti ļaunprātīgi.
 - Few-shot prompti ChatGPT un text-bison
 - Text-to-text no svešas valodas uz LV
 - Speech-to-text no svešas valodas uz LV
+- Promptbreeder un dažādas citas advancētas promptošanas stratēģijas
